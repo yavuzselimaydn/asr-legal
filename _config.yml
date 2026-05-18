@@ -1,0 +1,8 @@
+title: "Asr Legal"
+description: "Legal documents for Asr: Islamic Focus"
+baseurl: "/asr-legal"
+url: "https://yavuzselimaydn.github.io"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md

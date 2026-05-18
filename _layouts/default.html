@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" dir="{{ page.dir | default: 'ltr' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <main class="page-shell">
+      <nav class="language-nav" aria-label="Legal document languages">
+        <a href="{{ '/tr/privacy/' | relative_url }}">TR</a>
+        <a href="{{ '/en/privacy/' | relative_url }}">EN</a>
+        <a href="{{ '/ar/privacy/' | relative_url }}">AR</a>
+      </nav>
+      <article class="legal-card">
+        {{ content }}
+      </article>
+      <footer class="site-footer">
+        <a href="{{ '/tr/privacy/' | relative_url }}">TR Privacy</a>
+        <a href="{{ '/tr/terms/' | relative_url }}">TR Terms</a>
+        <a href="{{ '/en/privacy/' | relative_url }}">EN Privacy</a>
+        <a href="{{ '/en/terms/' | relative_url }}">EN Terms</a>
+        <a href="{{ '/ar/privacy/' | relative_url }}">AR Privacy</a>
+        <a href="{{ '/ar/terms/' | relative_url }}">AR Terms</a>
+      </footer>
+    </main>
+  </body>
+</html>
