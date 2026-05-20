@@ -9,7 +9,7 @@ dir: ltr
 
 Effective date: May 18, 2026
 
-This Privacy Policy explains how Asr: Islamic Focus ("Asr", "the App", "we", "us") accesses, uses, stores, and shares information. The App is developed by Yavuz Selim Aydin. You can contact us at `selam@islamiodak.app`.
+This Privacy Policy explains how Asr: Islamic Focus ("Asr", "the App", "we", "us") accesses, uses, stores, and shares information. The App is developed by Yavuz Selim Aydin. You can contact us at `asrislamiodak.support@gmail.com`.
 
 Asr is designed as a privacy-conscious prayer, Quran habit, and focus-protection app. The current architecture keeps the core habit profile and protection state on your device unless a specific feature, operating system service, app store service, or purchase provider requires external processing.
 
@@ -58,7 +58,7 @@ We may share or process information with:
 - You can reset local app data from the profile area where available, or by deleting the App from your device.
 - You can manage or cancel subscriptions through the App Store or Google Play subscription settings.
 - You can restore purchases from the App after subscription support is added.
-- You can contact us at `selam@islamiodak.app` for privacy questions.
+- You can contact us at `asrislamiodak.support@gmail.com` for privacy questions.
 
 ## Children
 
@@ -79,4 +79,4 @@ We may update this Privacy Policy when the App, subscription system, legal requi
 ## Contact
 
 Yavuz Selim Aydin  
-Email: `selam@islamiodak.app`
+Email: `asrislamiodak.support@gmail.com`

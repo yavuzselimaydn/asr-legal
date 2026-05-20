@@ -9,7 +9,7 @@ dir: ltr
 
 Effective date: May 18, 2026
 
-These Terms of Use ("Terms") govern your use of Asr: Islamic Focus ("Asr", "the App", "we", "us"). The App is developed by Yavuz Selim Aydin. Contact: `selam@islamiodak.app`.
+These Terms of Use ("Terms") govern your use of Asr: Islamic Focus ("Asr", "the App", "we", "us"). The App is developed by Yavuz Selim Aydin. Contact: `asrislamiodak.support@gmail.com`.
 
 By using the App, you agree to these Terms. If you do not agree, do not use the App.
 
@@ -78,4 +78,4 @@ We may update these Terms when the App, subscriptions, legal requirements, or pl
 ## 13. Contact
 
 Yavuz Selim Aydin  
-Email: `selam@islamiodak.app`
+Email: `asrislamiodak.support@gmail.com`

@@ -9,7 +9,7 @@ dir: ltr
 
 Yürürlük tarihi: 18 Mayıs 2026
 
-Bu Kullanım Şartları ("Şartlar"), Asr: İslami Odak ("Asr", "Uygulama", "biz") kullanımınızı düzenler. Uygulama Yavuz Selim Aydın tarafından geliştirilmektedir. İletişim: `selam@islamiodak.app`.
+Bu Kullanım Şartları ("Şartlar"), Asr: İslami Odak ("Asr", "Uygulama", "biz") kullanımınızı düzenler. Uygulama Yavuz Selim Aydın tarafından geliştirilmektedir. İletişim: `asrislamiodak.support@gmail.com`.
 
 Uygulamayı kullanarak bu Şartları kabul etmiş olursunuz. Kabul etmiyorsanız Uygulamayı kullanmayın.
 
@@ -78,4 +78,4 @@ Uygulama, abonelikler, yasal gereklilikler veya platform kuralları değiştiği
 ## 13. İletişim
 
 Yavuz Selim Aydın  
-E-posta: `selam@islamiodak.app`
+E-posta: `asrislamiodak.support@gmail.com`

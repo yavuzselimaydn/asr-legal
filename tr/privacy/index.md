@@ -9,7 +9,7 @@ dir: ltr
 
 Yürürlük tarihi: 18 Mayıs 2026
 
-Bu Gizlilik Politikası, Asr: İslami Odak ("Asr", "Uygulama", "biz") uygulamasının bilgileri nasıl eriştiğini, kullandığını, sakladığını ve paylaştığını açıklar. Uygulama Yavuz Selim Aydın tarafından geliştirilmektedir. Bize `selam@islamiodak.app` adresinden ulaşabilirsiniz.
+Bu Gizlilik Politikası, Asr: İslami Odak ("Asr", "Uygulama", "biz") uygulamasının bilgileri nasıl eriştiğini, kullandığını, sakladığını ve paylaştığını açıklar. Uygulama Yavuz Selim Aydın tarafından geliştirilmektedir. Bize `asrislamiodak.support@gmail.com` adresinden ulaşabilirsiniz.
 
 Asr; namaz, Kur'an alışkanlığı ve odak koruması için gizlilik odaklı tasarlanmıştır. Mevcut mimaride temel alışkanlık profili ve koruma durumu, belirli bir özellik, işletim sistemi servisi, mağaza servisi veya satın alma sağlayıcısı dış işlem gerektirmediği sürece cihazınızda tutulur.
 
@@ -58,7 +58,7 @@ Bilgiler şu taraflarla işlenebilir veya paylaşılabilir:
 - Yerel uygulama verisini profil alanından sıfırlayabilir veya Uygulamayı cihazınızdan silebilirsiniz.
 - Abonelikleri App Store veya Google Play abonelik ayarlarından yönetebilir ya da iptal edebilirsiniz.
 - Abonelik desteği eklendikten sonra satın almaları Uygulama içinden geri yükleyebilirsiniz.
-- Gizlilik soruları için `selam@islamiodak.app` adresinden bize ulaşabilirsiniz.
+- Gizlilik soruları için `asrislamiodak.support@gmail.com` adresinden bize ulaşabilirsiniz.
 
 ## Çocuklar
 
@@ -79,4 +79,4 @@ Uygulama, abonelik sistemi, yasal gereklilikler veya veri uygulamaları değişt
 ## İletişim
 
 Yavuz Selim Aydın  
-E-posta: `selam@islamiodak.app`
+E-posta: `asrislamiodak.support@gmail.com`

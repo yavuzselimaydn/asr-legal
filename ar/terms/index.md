@@ -9,7 +9,7 @@ dir: rtl
 
 تاريخ السريان: 18 مايو 2026
 
-تحكم شروط الاستخدام هذه ("الشروط") استخدامك لتطبيق Asr: Islamic Focus ("Asr"، "التطبيق"، "نحن"). يطور التطبيق Yavuz Selim Aydın. للتواصل: `selam@islamiodak.app`.
+تحكم شروط الاستخدام هذه ("الشروط") استخدامك لتطبيق Asr: Islamic Focus ("Asr"، "التطبيق"، "نحن"). يطور التطبيق Yavuz Selim Aydın. للتواصل: `asrislamiodak.support@gmail.com`.
 
 باستخدام التطبيق، فإنك توافق على هذه الشروط. إذا لم توافق، فلا تستخدم التطبيق.
 
@@ -78,4 +78,4 @@ dir: rtl
 ## 13. التواصل
 
 Yavuz Selim Aydın  
-البريد الإلكتروني: `selam@islamiodak.app`
+البريد الإلكتروني: `asrislamiodak.support@gmail.com`
