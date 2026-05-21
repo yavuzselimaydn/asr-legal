@@ -7,7 +7,7 @@ dir: ltr
 
 # Privacy Policy
 
-Effective date: May 18, 2026
+Effective date: May 21, 2026
 
 This Privacy Policy explains how Asr: Islamic Focus ("Asr", "the App", "we", "us") accesses, uses, stores, and shares information. The App is developed by Yavuz Selim Aydin. You can contact us at `asrislamiodak.support@gmail.com`.
 
@@ -50,6 +50,14 @@ We may share or process information with:
 - Local data remains until you reset the app data, delete the app, or clear the relevant device storage.
 - Purchase records and entitlement history may be retained by Apple, Google, and RevenueCat according to their legal, accounting, fraud-prevention, and platform requirements.
 - Support emails are retained only as long as reasonably needed to respond, maintain support history, or meet legal obligations.
+
+## Data Deletion Requests
+
+The local profile, goal, location, notification, and protection preferences you create in the App are stored on your device. You can remove this local data by using the profile/data reset option in the App, clearing the App's data in device settings, or deleting the App from your device.
+
+To request deletion of data processed outside your device, contact us at `asrislamiodak.support@gmail.com`. Use the subject line "Asr data deletion request" and, where possible, include the platform you used (Google Play or App Store), the in-app user/subscription identifier, or the store order identifier related to the purchase so we can verify the request. Do not send full card numbers, passwords, or sensitive payment details.
+
+Upon request, we will delete or anonymize support records and RevenueCat subscription customer data that we can reasonably associate with your request. Purchase records that Apple, Google, or RevenueCat must retain for legal, accounting, fraud-prevention, refund, or platform-security reasons may be retained. A data deletion request does not automatically cancel a subscription; you must manage or cancel subscriptions separately through App Store or Google Play subscription settings.
 
 ## Your Choices
 

@@ -7,7 +7,7 @@ dir: ltr
 
 # Gizlilik Politikası
 
-Yürürlük tarihi: 18 Mayıs 2026
+Yürürlük tarihi: 21 Mayıs 2026
 
 Bu Gizlilik Politikası, Asr: İslami Odak ("Asr", "Uygulama", "biz") uygulamasının bilgileri nasıl eriştiğini, kullandığını, sakladığını ve paylaştığını açıklar. Uygulama Yavuz Selim Aydın tarafından geliştirilmektedir. Bize `asrislamiodak.support@gmail.com` adresinden ulaşabilirsiniz.
 
@@ -50,6 +50,14 @@ Bilgiler şu taraflarla işlenebilir veya paylaşılabilir:
 - Yerel veriler, uygulama verisini sıfırlayana, uygulamayı silene veya ilgili cihaz depolamasını temizleyene kadar kalır.
 - Satın alma kayıtları ve hak sahipliği geçmişi; Apple, Google ve RevenueCat tarafından yasal, muhasebe, sahtekarlık önleme ve platform gereklilikleri doğrultusunda saklanabilir.
 - Destek e-postaları yalnızca yanıt vermek, destek geçmişini korumak veya yasal yükümlülükleri karşılamak için makul süre boyunca saklanır.
+
+## Veri Silme Talebi
+
+Uygulama içinde oluşturduğunuz yerel profil, hedef, konum, bildirim ve koruma tercihleri cihazınızda saklanır. Bu yerel verileri uygulama içindeki profil/veri sıfırlama seçeneğiyle, cihaz ayarlarından uygulama verisini temizleyerek veya uygulamayı cihazınızdan silerek kaldırabilirsiniz.
+
+Cihaz dışında işlenen veriler için silme talebi göndermek isterseniz bize `asrislamiodak.support@gmail.com` adresinden yazabilirsiniz. E-postanızda konu satırını "Asr veri silme talebi" yapın ve isteğinizi doğrulayabilmemiz için mümkünse kullandığınız platformu (Google Play veya App Store), uygulama içindeki kullanıcı/abonelik kimliğini ya da satın alma işlemiyle ilgili mağaza sipariş kimliğini paylaşın. Tam kart numarası, şifre veya hassas ödeme bilgisi göndermeyin.
+
+Talebiniz üzerine, makul şekilde ilişkilendirebildiğimiz destek kayıtlarını ve RevenueCat abonelik müşteri verilerini siler veya anonimleştiririz. Apple, Google veya RevenueCat tarafından yasal, muhasebe, sahtekarlık önleme, iade veya platform güvenliği gerekçeleriyle tutulması gereken satın alma kayıtları saklanabilir. Veri silme talebi aboneliği otomatik olarak iptal etmez; aboneliğinizi App Store veya Google Play abonelik ayarlarından ayrıca yönetmeniz gerekir.
 
 ## Seçimleriniz
 
