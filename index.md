@@ -13,13 +13,16 @@ Choose a language and document.
 
 - [Gizlilik Politikası]({{ '/tr/privacy/' | relative_url }})
 - [Kullanım Şartları]({{ '/tr/terms/' | relative_url }})
+- [Destek]({{ '/tr/support/' | relative_url }})
 
 ## English
 
 - [Privacy Policy]({{ '/en/privacy/' | relative_url }})
 - [Terms of Use]({{ '/en/terms/' | relative_url }})
+- [Support]({{ '/en/support/' | relative_url }})
 
 ## Arabic
 
 - [سياسة الخصوصية]({{ '/ar/privacy/' | relative_url }})
 - [شروط الاستخدام]({{ '/ar/terms/' | relative_url }})
+- [الدعم]({{ '/ar/support/' | relative_url }})
