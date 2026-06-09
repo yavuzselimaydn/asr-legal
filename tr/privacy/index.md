@@ -65,7 +65,7 @@ Talebiniz üzerine, makul şekilde ilişkilendirebildiğimiz destek kayıtların
 - Desteklenen yerlerde hedefinizi, korunan uygulama seçimlerinizi, bildirim tercihlerinizi, dilinizi ve temanızı Uygulama içinde düzenleyebilirsiniz.
 - Yerel uygulama verisini profil alanından sıfırlayabilir veya Uygulamayı cihazınızdan silebilirsiniz.
 - Abonelikleri App Store veya Google Play abonelik ayarlarından yönetebilir ya da iptal edebilirsiniz.
-- Abonelik desteği eklendikten sonra satın almaları Uygulama içinden geri yükleyebilirsiniz.
+- Satın almaları Uygulama içinden geri yükleyebilirsiniz.
 - Gizlilik soruları için `asrislamiodak.support@gmail.com` adresinden bize ulaşabilirsiniz.
 
 ## Çocuklar

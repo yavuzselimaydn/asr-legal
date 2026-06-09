@@ -65,7 +65,7 @@ Upon request, we will delete or anonymize support records and RevenueCat subscri
 - You can edit your goal, protected app selections, notification preferences, language, and theme inside the App where supported.
 - You can reset local app data from the profile area where available, or by deleting the App from your device.
 - You can manage or cancel subscriptions through the App Store or Google Play subscription settings.
-- You can restore purchases from the App after subscription support is added.
+- You can restore purchases from inside the App.
 - You can contact us at `asrislamiodak.support@gmail.com` for privacy questions.
 
 ## Children
