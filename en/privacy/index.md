@@ -18,7 +18,7 @@ Asr is designed as a privacy-conscious prayer, Quran habit, and focus-protection
 - Setup profile: your display name or nickname, selected goal, selected prayer targets, Quran reading target, challenge duration, focus window, language, theme, notification preferences, and protection settings.
 - Location: if your goal needs prayer times, the App asks for device location permission to calculate prayer times and show a city/region label. Location information is used for app functionality and is stored locally on your device.
 - Notifications: the App schedules local reminders for prayer, Quran, challenge, and focus-protection flows based on your preferences.
-- Blocked app selections on Android: the App may read the installed app list on your device to let you choose which apps to protect against. The selected package identifiers are stored locally. The Android Accessibility Service is used only to detect whether a selected app is in the foreground during an active protection window and to apply the protection screen you enabled.
+- Blocked app selections on Android: the App may read the installed app list on your device to let you choose which apps to place under protection. The selected package identifiers are stored locally. The Android Accessibility Service is used only to detect whether a selected app is in the foreground during an active protection window and to apply the protection screen you enabled.
 - Screen Time selections on iOS: the App uses Apple Screen Time / FamilyControls APIs to let you select apps, categories, and web domains. The selection payload and counts are stored locally in the App/App Group so the shield extensions can enforce your chosen protection.
 - Purchase and subscription information: when subscriptions are enabled, purchases are handled by Apple App Store, Google Play, and RevenueCat. We do not receive your full payment card details. RevenueCat may process app user identifiers, store receipts, purchase history, entitlement status, product identifiers, and related subscription metadata to validate purchases, prevent fraud, and enable Premium access.
 - Support communications: if you email us, we process the email address, message content, and any information you choose to include.
@@ -31,7 +31,7 @@ Asr is designed as a privacy-conscious prayer, Quran habit, and focus-protection
 - To apply app or Screen Time shields that you explicitly configure.
 - To provide Premium subscription access and restore purchases.
 - To respond to support, privacy, and product inquiries.
-- To maintain app reliability, security, and fraud prevention.
+- To maintain app reliability and security, and to prevent fraud.
 
 ## Sharing
 

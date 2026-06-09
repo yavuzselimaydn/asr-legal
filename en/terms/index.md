@@ -32,7 +32,7 @@ The App may request permissions such as location, notifications, Accessibility o
 
 ## 4. Premium Subscription
 
-Asr may offer an optional Premium subscription. Premium may unlock features such as higher or unlimited Asr-side protected app limits and combined prayer + Quran goals.
+Asr may offer an optional Premium subscription. Premium may unlock features such as higher or unlimited limits for protected apps within Asr and combined prayer + Quran goals.
 
 Subscription purchases are processed by Apple App Store or Google Play and validated through RevenueCat. Prices, billing periods, free trials, introductory offers, taxes, renewals, cancellations, and refunds are governed by the store where you purchased the subscription.
 
@@ -53,7 +53,7 @@ You agree not to:
 
 ## 7. Intellectual Property
 
-The App, design, code, branding, and original content are owned by us or licensed to us. Quran text, translations, fonts, libraries, and other third-party materials may be subject to their own licenses and source notices.
+The App, design, code, branding, and original content are owned by us or licensed to us. Quran text, translations, fonts, libraries, and other third-party materials may be subject to their own licenses and source attribution notices.
 
 ## 8. Availability and Accuracy
 
@@ -69,7 +69,7 @@ To the maximum extent allowed by law, we are not liable for indirect, incidental
 
 ## 11. Termination
 
-You may stop using the App at any time. We may suspend or limit access to features if required by law, platform policy, security needs, or misuse.
+You may stop using the App at any time. We may suspend or limit access to features if required by law, platform policy, security needs, or to address misuse.
 
 ## 12. Changes to These Terms
 
